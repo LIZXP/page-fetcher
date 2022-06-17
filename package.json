@@ -1,0 +1,22 @@
+{
+  "name": "fetcher",
+  "version": "1.0.0",
+  "description": "",
+  "main": "fetcher.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LIZXP/page-fetcher.git"
+  },
+  "author": "Peter Li",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LIZXP/page-fetcher/issues"
+  },
+  "homepage": "https://github.com/LIZXP/page-fetcher#readme",
+  "dependencies": {
+    "request": "^2.88.2"
+  }
+}
